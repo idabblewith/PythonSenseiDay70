@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "pythonsenseiday70"
+version = "0.1.0"
+description = ""
+authors = ["idabblewith <109533655+idabblewith@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+sqlalchemy = "^2.0.30"
+flask-sqlalchemy = "^3.1.1"
+flask-ckeditor = "^0.5.1"
+flask = "^3.0.3"
+flask-wtf = "^1.2.1"
+wtforms = "^3.1.2"
+python-dotenv = "^1.0.1"
+flask-login = "^0.6.3"
+bootstrap-flask = "^2.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
