@@ -557,4 +557,8 @@ email = ["email-validator"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
+<<<<<<< HEAD
 content-hash = "f057d1fb87cd77e10cdf0b22017cb1d9bcac550c1de736f3c55df277f118de0b"
+=======
+content-hash = "fb043f262a838a9cd7dd0f37b1625888d64fa0dfa3605ad23151d0bde1ac9e40"
+>>>>>>> parent of e265547 (test: psycopg2-binary for render)
