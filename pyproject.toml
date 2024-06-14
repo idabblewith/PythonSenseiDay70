@@ -18,6 +18,7 @@ flask-login = "^0.6.3"
 bootstrap-flask = "^2.4.0"
 gunicorn = "^22.0.0"
 psycopg = "^3.1.19"
+psycopg-binary = "^3.1.19"
 
 
 [build-system]
